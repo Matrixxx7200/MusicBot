@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTQ2MzE2NDM0MzY1Mzg5NjI4Nw.GuWRBx.krHrPMGDdE-VYYnBCPlBIRCZQ9s4-WpBayJ88s",
   language: "en",
   ownerID: ["728934856309866517", ""], 
   mongodbUri : "mongodb+srv://matrix:<db_password>@matrix.wynnk3k.mongodb.net/?appName=matrix",
